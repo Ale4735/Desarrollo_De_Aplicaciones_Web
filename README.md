@@ -1,27 +1,20 @@
-# 📚 Desarrollo de Aplicaciones Web
+# DESARROLLO DE APLICACIONES WEB
 
 Repositorio creado para almacenar las actividades, tareas y proyectos desarrollados durante la asignatura de Desarrollo de Aplicaciones Web.
 
 ---
 
-## 👩‍🎓 Estudiante
+## ESTUDIANTE
 Alexandra Estefanía Moreira Zambrano
 
-## 🏫 Materia
+## MATERIA
 Desarrollo de Aplicaciones Web
 
-## 📅 Período Académico
+## PERÍODO
 Abril- Agosto 2026
 
 ---
 
-## 📂 Contenido del repositorio
+## CONTENIDO
 
-- Tareas
-
----
-
-## 🚀 Plataforma utilizada
-
-- Git
-- GitHub
+- Tareas de Desarrollo de Aplicaciones Web (DAW)
