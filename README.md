@@ -5,7 +5,7 @@ Repositorio creado para almacenar las actividades, tareas y proyectos desarrolla
 ---
 
 ## 👩‍🎓 Estudiante
-Alexandra Moreira
+Alexandra Estefanía Moreira Zambrano
 
 ## 🏫 Materia
 Desarrollo de Aplicaciones Web
